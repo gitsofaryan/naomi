@@ -9,9 +9,23 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@imgly/background-removal": "^1.7.0",
+    "@mediapipe/pose": "^0.5.1675469404",
+    "@mediapipe/tasks-vision": "^0.10.22-rc.20250304",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.4.2",
+    "@types/three": "^0.181.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.23.25",
+    "idb": "^8.0.3",
+    "lucide-react": "^0.555.0",
     "next": "16.0.6",
+    "openai": "^6.9.1",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "react-webcam": "^7.2.0",
+    "tailwind-merge": "^3.4.0",
+    "three": "^0.181.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
